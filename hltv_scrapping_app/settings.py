@@ -11,7 +11,7 @@ BOT_NAME = "hltv_scrapping_app"
 
 SPIDER_MODULES = ["hltv_scrapping_app.spiders"]
 NEWSPIDER_MODULE = "hltv_scrapping_app.spiders"
-
+LOG_ENABLED = True
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = "hltv_scrapping_app (+http://www.yourdomain.com)"
